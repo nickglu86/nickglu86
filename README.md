@@ -7,36 +7,36 @@
 <p align=center>
 <img width="25%" src="https://github.com/nickglu86/nickglu86/blob/main/images/profile.png"></img>
 </p>
-<div style="display: flex; justify-content: center;" >
+<p style="display: flex; justify-content: center;" >
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nickglushchenko/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nickglushchenko)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/masterm1nd)
-</div>
+</p>
 
-<br><br>
+<br>
 
 
 :pushpin: Check out My Last Dev Project as a FreeLancer - [Company WebSite for Jenko3D](https://jenko3d.com/en/)
 
-<br><br>
 
- :calendar: Currrently I'm woking on a New Company WebSite for [Natural Intelligence](https://naturalint.com/)
+:calendar: Currrently I'm woking on a New Company WebSite for [Natural Intelligence](https://naturalint.com/)
 
-<img width="200" src="https://github.com/nickglu86/nickglu86/raw/main/images/naturalint.png"></img> 
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/naturalint.png"></img> 
 
-<br><br>
+<br> 
 
 :house: My New Portfolio Website - [nickglu.xyz](https://nickglu.xyz/)
 
-<img width="200" src="https://github.com/nickglu86/nickglu86/raw/main/images/portfolio-website.png"></img> 
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/portfolio-website.png"></img> 
 
-<br><br>
+<br> 
+
 :video_game: Try Famous Web Browser [T-Rex Dinosaur Game](https://nickglu86.github.io/google-chrome-dinosaur-game/) - a replica of the hidden game from Chrome offline mode. 
 
-<img width="200" src="https://github.com/nickglu86/nickglu86/raw/main/images/dino.webp"></img> 
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/dino.webp"></img> 
 
 <br><br>
 
