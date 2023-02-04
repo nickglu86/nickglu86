@@ -5,7 +5,7 @@
 </p>
 
 <p align=center>
-<img width="25%" src="https://github.com/nickglu86/nickglu86/blob/main/images/profile.png"></img>
+<img width="200" src="https://github.com/nickglu86/nickglu86/blob/main/images/profile.png"></img>
 </p>
 <p align=center>
 
