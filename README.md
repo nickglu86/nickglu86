@@ -15,27 +15,6 @@
 <br>
 
 
-:pushpin: Check out My Last Dev Project as a FreeLancer - [Company WebSite for Jenko3D](https://jenko3d.com/en/)
-
-
-:calendar: Currrently I'm woking on a New Company WebSite for [Natural Intelligence](https://naturalint.com/)
-
-<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/naturalint.png"></img> 
-
-<br> 
-
-:house: My New Portfolio Website - [nickglu.xyz](https://nickglu.xyz/)
-
-<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/portfolio-website.png"></img> 
-
-<br> 
-
-:video_game: Try Famous Web Browser [T-Rex Dinosaur Game](https://nickglu86.github.io/google-chrome-dinosaur-game/) - a replica of the hidden game from Chrome offline mode. 
-
-<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/dino.webp"></img> 
-
-<br><br>
-
 <h3>Things I code with</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330??style=flat-square&logo=javascript&logoColor=F7DF1E" /> 
@@ -68,4 +47,36 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
 
 </p>
- 
+
+<br> 
+:calendar: Currrently I'm woking on a New Company WebSite for [Natural Intelligence](https://naturalint.com/)
+
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/naturalint.png"></img> 
+
+<br> 
+
+:bar_chart: Enterprise Dashboard Mock Build with Material UI   - [Enterprise-Dashboard](https://nickglu86.github.io/Enterprise-Dashboard)
+
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/enterprise-dashboard.png"></img> 
+
+<br> 
+
+:pushpin: Check out My Last Dev Project as a FreeLancer - [Company WebSite for Jenko3D](https://jenko3d.com/en/)
+
+
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/jenko.jpg"></img> 
+
+
+<br> 
+
+:house: My New Portfolio Website - [nickglu.xyz](https://nickglu.xyz/)
+
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/portfolio-website.png"></img> 
+
+<br> 
+
+:video_game: Try Famous Web Browser [T-Rex Dinosaur Game](https://nickglu86.github.io/google-chrome-dinosaur-game/) - a replica of the hidden game from Chrome offline mode. 
+
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/dino.webp"></img> 
+
+<br><br>
