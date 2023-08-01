@@ -50,6 +50,12 @@
 
 <br> 
 
+New LandingPage  - [Invest In Dubai Real Estate]((https://investindubai.estate/))
+
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/investindubai-1.jpg"></img> 
+
+<br> 
+
 :calendar: New Company WebSite for  - [Natural Intelligence](https://naturalint.com/)
 
 <img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/naturalint.png"></img> 
