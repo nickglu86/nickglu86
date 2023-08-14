@@ -84,6 +84,13 @@ New LandingPage  - [Invest In Dubai Real Estate](https://investindubai.estate/)
 
 <br> 
 
+
+:shamrock: Health and Lifestyle Blog  - [Choose Differently](https://nickglu86.github.io/choosedifferently/)
+
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/choose-dif.jpg"></img> 
+
+<br> 
+ 
 :video_game: Try Famous Web Browser [T-Rex Dinosaur Game](https://nickglu86.github.io/google-chrome-dinosaur-game/) - a replica of the hidden game from Chrome offline mode. 
 
 <img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/dino.webp"></img> 
