@@ -5,7 +5,7 @@
 </p>
 
 <p align=center>
-<img width="200" src="https://github.com/nickglu86/nickglu86/blob/main/images/profile.png"></img>
+<img width="200" src="https://github.com/nickglu86/nickglu86/blob/main/images/profile-new.png"></img>
 </p>
 <p align=center>
   
@@ -55,13 +55,19 @@
 </p>
 <br>
 
+Crafting the future of Autonomous Retail Stores with 1MRoboics - [1mrobotics.com](https://1mrobotics.com)
+
+<img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/1mrobotics-new.jpg"></img>
+
+<br>
+
 Elevated User Experience for 1MRobotics Company Website - [1mrobotics.com](https://1mrobotics.com)
 
 <img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/1mrobotics.jpg"></img>
 
 <br>
 
-New LandingPage - [Invest In Dubai Real Estate](https://investindubai.estate/)
+New LandingPage - [Invest In Dubai Real Estate](https://invest-in-dubai.netlify.app/)
 
 <img width="400" src="https://github.com/nickglu86/nickglu86/raw/main/images/investindubai-1.jpg"></img>
 
