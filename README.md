@@ -1,12 +1,9 @@
 <h1 align=center>Hi There 👋</h1>
 
-<p align=center>
+<p >
   I'm Nick, a <strong>Full Stack Web Developer</strong>.
 </p>
 
-<p align=center>
-<img width="200" src="https://github.com/nickglu86/nickglu86/blob/main/images/profile-new.png"></img>
-</p>
 <p align=center>
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nickglushchenko/)
