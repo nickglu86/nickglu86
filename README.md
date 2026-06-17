@@ -8,9 +8,9 @@ I take products end-to-end: from product decisions and architecture through impl
 
 ### 🛠 Tech
 
-**Core:** React · TypeScript · Next.js · Redux · JavaScript
-**Also:** Node.js · REST APIs · Testing · AI integrations (OpenAI, Azure Speech)
-**Tooling:** Vite · Docker · CI/CD
+- **Core:** React · TypeScript · Next.js · Redux · JavaScript
+- **Also:** Node.js · REST APIs · Testing · AI integrations (OpenAI, Azure Speech)
+- **Tooling:** Vite · Docker · CI/CD
 
 ---
 
